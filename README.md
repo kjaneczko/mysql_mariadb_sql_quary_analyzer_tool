@@ -1,1 +1,1 @@
-# mysql_mariadb_sql_quaries_analyzer_tool
+# SQL query analyzer tool for MariaDB & MySQL
